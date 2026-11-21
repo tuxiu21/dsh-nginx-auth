@@ -1,0 +1,3 @@
+- insert:
+    - id: nginx-authentication
+      name: dsh-nginx-auth
